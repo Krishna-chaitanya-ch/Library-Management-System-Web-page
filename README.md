@@ -4,6 +4,7 @@ Library management system using HTML, CSS, bootstarp and JavaScript. The simple
 Library management system allows user to fetch books from library and online store in real-time. 
 It can perform basic tasks such as Regestrastion,login,student entry details,availablebooks.etc, 
 engaging with books and gathering more knowledge of the user.
+
 # Objective:
 Library Management System project revolve around automating processes, improving access to 
 information, enhancing user experience, enabling efficient resource management, fostering 
