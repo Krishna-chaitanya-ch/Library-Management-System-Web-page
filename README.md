@@ -12,6 +12,8 @@ collaboration, providing comprehensive reporting, and ensuring data security. By
 objectives, the project aims to transform the library into a modern and efficient information hub 
 that meets the needs of its users.
 
+# top.html is the starting page of the webpage.
+
 # Web Page Screenshots:
 ![Screenshot (27)](https://github.com/user-attachments/assets/127fab18-0c79-47f1-ba45-3d1ca60d6677)
 ![Screenshot (28)](https://github.com/user-attachments/assets/fab4fc74-5d14-42ed-8173-972aba3ec4fe)
